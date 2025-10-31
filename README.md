@@ -4,9 +4,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javeed999&label=Profile%20views&color=0e75b6&style=flat" alt="javeed999" />
-</p>
 
 <p align="center">
 🚀 I love turning ideas into reality through <b>code</b>, <b>creativity</b>, and <b>innovation</b>  
